@@ -1,4 +1,4 @@
-<h1>Hi, I'm Franklyn, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi, I'm Franklyn, an <a href="https://linkedin.com/in/Josh">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -8,7 +8,7 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/franklynvf/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premise Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - 
+    
 <h2>🤳Connect with me:</h2>
 
 
