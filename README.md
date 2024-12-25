@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Virtual Machine Creation In Azure](https://github.com/franklynvf//virtual-machine)
+  - [Virtual Machine/Remote Desktop Creation In Azure](https://github.com/franklynvf//virtual-machine)
   
 
 - <b>osTicket (Help Desk Ticketing System)</b>
