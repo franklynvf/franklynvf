@@ -12,7 +12,7 @@
   
   
 - <b>Active Directory</b>
-  - [Configuring On-premise Active Directory within Azure VMs](https://github.com/franklynvf//configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://github.com/franklynvf//configure-ad)
 
 
 <h2>🤳Connect with me:</h2>
