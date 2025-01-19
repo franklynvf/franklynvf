@@ -15,12 +15,8 @@
   - [Configuring Active Directory within Azure VMs](https://github.com/franklynvf//configure-ad)
 
 
-<h2>🤳Connect with me:</h2>
+<h2>🤳Connect with me:</h2>https://www.linkedin.com/in/franklyn-foli
 
 
-[<img align="left" alt="| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-
-[instagram]: https://www.instagram.com/
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/franklyn-foli
